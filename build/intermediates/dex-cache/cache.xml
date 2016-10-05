@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/jrivas/AndroidStudioProjects/MiTarea/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/jrivas/AndroidStudioProjects/MiTarea/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_30f3e5d7546adc6d7e8d52ba6e738b5c78610aff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jrivas/AndroidStudioProjects/MiTarea/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/jrivas/AndroidStudioProjects/MiTarea/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_959bd8273c79cd2fb46efb719da1499e518c9448.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jrivas/AndroidStudioProjects/MiTarea/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/jrivas/AndroidStudioProjects/MiTarea/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_cabafbe1110f56835ab61f26607bf42bdef1998f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jrivas/AndroidStudioProjects/MiTarea/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/jrivas/AndroidStudioProjects/MiTarea/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_c88a58903a3d8b2299b76db830eef4965ddbb7e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jrivas/AndroidStudioProjects/MiTarea/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/jrivas/AndroidStudioProjects/MiTarea/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_98cf5ee7e59adcd7fd103316890f8923db4bf15e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jrivas/AndroidStudioProjects/MiTarea/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9879d939f6a5e6b0d62b23dc8094d94be01ac13f">
+        <dex dex="/home/jrivas/AndroidStudioProjects/MiTarea/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_e841182cc60ba5dd3c3b76a9f19272268b680d71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jrivas/AndroidStudioProjects/MiTarea/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/jrivas/AndroidStudioProjects/MiTarea/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_93a5002047fcfaebc305927f013867007c4af4ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jrivas/AndroidStudioProjects/MiTarea/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/jrivas/AndroidStudioProjects/MiTarea/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_55d487fb17f6f9d261da374069c5859644007eb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jrivas/AndroidStudioProjects/MiTarea/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/jrivas/AndroidStudioProjects/MiTarea/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_5618617bab228bf2651de2a5befd18d69707104f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jrivas/AndroidStudioProjects/MiTarea/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/jrivas/AndroidStudioProjects/MiTarea/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_d55c8d2cfae3ace1fa720fe051f24d95d34c38fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jrivas/AndroidStudioProjects/MiTarea/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/jrivas/AndroidStudioProjects/MiTarea/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_fadc55d31a4b1d970bf90418da1c567e4b386f5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jrivas/AndroidStudioProjects/MiTarea/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/jrivas/AndroidStudioProjects/MiTarea/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_753caf38a3522a3bfbfdfd4603b68f8d63f9533a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jrivas/AndroidStudioProjects/MiTarea/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="25aaad1bc0604dca23b731bbfd200e0aedd509eb">
+        <dex dex="/home/jrivas/AndroidStudioProjects/MiTarea/app/build/intermediates/pre-dexed/debug/instant-run_346126ed138114fcb98713258eaaaf868e3f0e63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jrivas/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/jrivas/AndroidStudioProjects/MiTarea/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_ce38ab660f751e6667f9458a5bf156a953bbb079.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jrivas/AndroidStudioProjects/MiTarea/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/jrivas/AndroidStudioProjects/MiTarea/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f2f1974f161682956f4927299ec68bd4aade2a77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jrivas/AndroidStudioProjects/MiTarea/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/jrivas/AndroidStudioProjects/MiTarea/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_fb049243fbfbf4296f5fed81d54a55af823d10f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jrivas/AndroidStudioProjects/MiTarea/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/jrivas/AndroidStudioProjects/MiTarea/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_3da3857f9d14761c3650eeb536def14e5ccb212d.jar" />
+    </item>
+
+</items>
