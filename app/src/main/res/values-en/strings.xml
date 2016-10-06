@@ -2,5 +2,5 @@
 <resources>
     <string name="app_name">MiTarea</string>
     <string name="tiitulo_app">Welcome</string>
-    <string name="btn_app">Button</string>
+    <string name="btn_app">Enter</string>
 </resources>
