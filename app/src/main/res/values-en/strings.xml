@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">MiTarea</string>
+    <string name="tiitulo_app">Welcome</string>
+    <string name="btn_app">Button</string>
+</resources>

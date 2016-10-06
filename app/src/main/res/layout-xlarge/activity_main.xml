@@ -12,19 +12,18 @@
     android:background="@drawable/fondo">
 
     <Button
-        android:text="@string/btn_app"
+        android:text="Button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/button"
-        android:layout_below="@+id/textView"
+        android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="188dp" />
+        android:layout_marginBottom="186dp"
+        android:id="@+id/button" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/tiitulo_app"
-        android:textColorLink="#ffffff"
+        android:text="Hello World!"
         android:textColor="#ffffff"
         android:textSize="36sp"
         android:layout_alignParentTop="true"
