@@ -25,7 +25,7 @@
         android:layout_height="wrap_content"
         android:text="@string/tiitulo_app"
         android:textColor="#ffffff"
-        android:textSize="56sp"
+        android:textSize="66sp"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true" />
 </RelativeLayout>
